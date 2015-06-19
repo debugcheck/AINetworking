@@ -14,7 +14,7 @@ A delightful iOS and OS X networking framework.
 - Download using Request or Resume data
 - Authentication with NSURLCredential
 - HTTP Response Validation
-- [x] Progress Closure & NSProgress
+- Progress Closure & NSProgress
 - cURL Debug Output
 
 ## Requirements
